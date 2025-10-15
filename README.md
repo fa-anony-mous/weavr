@@ -46,8 +46,8 @@ Each folder contains both a pdf document and a video where I explain the thinkin
 
 
 ## AI Copilot 
-![AI Copilot](images/ai-copilot.png)
+![AI Copilot](images/AI-copilot.png)
 
-![Workflow Builder](images/workflow-builder.png)
+![Workflow Builder](images/workflow builder.png)
 
 
