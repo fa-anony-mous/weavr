@@ -35,8 +35,12 @@ The visual builder and AI copilot sit on top, but underneath it's a production-g
 
 This repository contains detailed documentation organized as follows:
 
-- **`/system-design/`** — Comprehensive architecture document and video walkthrough explaining the design decisions, trade-offs, and technical depth
 - **`/user-stories/`** — Use cases, feature scenarios, and video demonstration of user journeys through the platform
+- [User Stories](https://drive.google.com/file/d/1_9eyj5hiqSoaVjqCyp1NnSvGwGp4MJWv/view?usp=sharing)
+
+- **`/system-design/`** — Comprehensive architecture document and video walkthrough explaining the design decisions, trade-offs, and technical depth
+- [System Design](https://drive.google.com/file/d/1P10MDk8M_g8ftKN_gAvHCW4sPwhxsUCB/view?usp=sharing)
+
 
 Each folder contains both a pdf document and a video where I explain the thinking behind the design.
 
