@@ -1,6 +1,6 @@
 # Agentic Orchestration Builder
 
-> *"Building systems is easy, but building simple systems that actually work is the hardest problem in engineering."*  -- Saketha Rama
+> *"Building systems is easy, but building simple systems that actually work is the hardest problem in engineering."*  
 > — Inspired by Johan Cruyff's wisdom: "Playing football is simple, but playing simple football is the hardest thing there is."
 
 ---
